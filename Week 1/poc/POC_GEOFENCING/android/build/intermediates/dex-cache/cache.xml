@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_f1f992dd6bfbe31347f2e762ccc83428af5ad7e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_007a28b42863fb8df0d08b7ac9b9655b15a1c1bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-classic/1.1.1-6/614c66c9ece69eef48c65a8558de4fd7266d9f69/logback-android-classic-1.1.1-6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="614c66c9ece69eef48c65a8558de4fd7266d9f69">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/logback-android-classic-1.1.1-6_aea0e8fd3b3e45af93b21c2ed3ce646f094caf3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_5f59cd540a32b69e55bf76e1f2b0f937528395e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_14262b2098c6f15ea7d9263b2b2c91931d14aebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_29de7c5639dd9d615b49175efd04c65be3c81833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_0a5db2489e0c774c7628329330f61c72d5da03fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/POC_GEOFENCING/react-native-background-geolocation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="90f414aed6416ee564fb588b70c5a58860439f2a">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/POC_GEOFENCING-react-native-background-geolocation-unspecified_2494c15f33b486f42c6464d58971e84f09221906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.6.0_4f5f6e73ac4a502acb315f959d853bfab306cb17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_c8f4332e79e2a055ebb5fc6f436f379b165c6d52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-core/1.1.1-6/93117015ae639e6482e4e1ad5f988c3f61d09fe0/logback-android-core-1.1.1-6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="93117015ae639e6482e4e1ad5f988c3f61d09fe0">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/logback-android-core-1.1.1-6_164f354d42d34a2350dfcd49402c1edaa31530d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_05233635402df579891d56a6a4d4a008773591a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/.gradle/caches/modules-2/files-2.1/com.github.tony19/apktool-lib/1.4.4-3/1d0125bf578cb30dd192496db56c2d937495248a/apktool-lib-1.4.4-3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1d0125bf578cb30dd192496db56c2d937495248a">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/apktool-lib-1.4.4-3_43155e2a0d38a05ba4b6f262c08c5649e3a7e1c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/tslocationmanager/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3116aa7eb12547fe4c9b79cee45c5743022189e4">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-tslocationmanager_bd4edab7615977b31a33d6e013c69ca796df277a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d21524d505f18ece6e160fa8b9d1e1e034f8992d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_763ef4ccaa2cddbb865a585648d91215106fc876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_969e110e2493c2c629d26ee68c2721a28c43287c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_dbc0fa5b0f237a1cf74166618774121ecd9e9b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_ff84802f47eeb8b9411fe6de6fbea995126e17b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="42c5ee016c8815db37d662f18c497aee13150f9e">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-11.6.0_75724992dbbc9fa34324c9fa666442a3f74422fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_258a169e3729b31fd61e9d1b4a84ac7fcfb3c6c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b0b22cb37f769a60fdd631630aea9908765f97cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_c057a0b9225888f1328f838049bda20ac23557da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="729a6a1975c19d7461378172c7932f5c57f1c3fe">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.6.0_fcf17aa96a05c495a67ce10e35bb0212c178b91c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="610b957661a666d16b2cd4664c6bf4370226dfd2">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.5_7f1187dbab49b08e6578fb7c3c0e936d53e2e83e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.21_7bd2e4e02c09539534fcd7141b93f6486766157c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_5713811e2f50b5d0c9187fd20897911ba2a0b355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/okhttp-3.8.1_70cb377cc4a04206d9d587a0e32d314a2ccfc3f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_fcfa14f28379b4380c33fa3533a72b3367a5403c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_2386b9ee2f62de92fb8678b4fa6663ddb7a5d0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_20ac62a30bbe77dfbd538aeac6a9a0727059a123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="863b37c463df79f340b5d83bbbfc63ad25612e01">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.6.0_fff3d57a41631341a9d7087f4c413e580e8695ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_ea07634d458c9d4ed5097b42de3cb96f6dbc410c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_652c21a9407718a716c9e5646119d0b9e19c279c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_a1d946e0ba4cfe8e7bba483b9d47a86e59499f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_3bf1e7bc889ca52ce40c8d7f7fd2065298800337.jar" />
+    </item>
+
+</items>

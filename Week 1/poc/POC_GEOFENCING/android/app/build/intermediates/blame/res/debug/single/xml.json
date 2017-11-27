@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/res/merged/debug/xml/tslocationmanager_file_provider_path.xml",
+        "source": "/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/tslocationmanager/res/xml/tslocationmanager_file_provider_path.xml"
+    },
+    {
+        "merged": "/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/Lars/Documents/Push-Lars/Week 1/poc/POC_GEOFENCING/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/res/xml/preferences.xml"
+    }
+]
