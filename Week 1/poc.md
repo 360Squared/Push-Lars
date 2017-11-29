@@ -1,10 +1,10 @@
-Beschrijving van de PoC's
+Beschrijving van de PoC
 ==========================
 
 Geef een beschrijving van de test die je gedaan hebt met elk Proof of Concept. Voeg 
  de code ook toe in de map **code**.
  
-Reactnative met geo-fencing
+React Native en geo-fencing
 ----------------
 * **hypothese:**  
 Is het handig om React Native te gebruiken in combinatie met geo-fencing.

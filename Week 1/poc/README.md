@@ -30,4 +30,3 @@ if you get an error "SDK not found" use the following [commands](https://stackov
 export ANDROID_HOME=/Users/<username>/Library/Android/sdk/
 export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 ```
-
