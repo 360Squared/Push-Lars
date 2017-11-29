@@ -7,9 +7,11 @@ Geef een beschrijving van de test die je gedaan hebt met elk Proof of Concept. V
 Reactnative met geofencing
 ----------------
 * **hypothese:**  
+Is het handig om vacatures aan te bieden via AR met behulp van een virtual tegel?
 
 * **testopzet:**  
- 
+ Inlezen wat ARKit precies is, en kijken naar de basis functionaliteiten
+
 * **resultaat:**  
 
 * **conclusie**
