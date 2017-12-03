@@ -8,4 +8,5 @@ Je mag tech opvoeren waarvan je denkt dat het direct relevant is voor het (huidi
 1. [ARKit](https://developer.apple.com/arkit/)
 Nieuwe framework van Apple voor Augmented Reality. 
 
-2. [link naar bron 2](https://google.com)  
+2. [Multipeer Connectivity](https://developer.apple.com/documentation/multipeerconnectivity)  
+Zoeken van aangeboden services door dichtbijzijnde devices en het communiceren met deze devices met behulp van berichten.
