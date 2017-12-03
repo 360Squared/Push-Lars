@@ -9,7 +9,7 @@ Beschrijf concrete aspecten van de samenwerking, geef aan in hoeverre je daar te
 
 ### Vorige week
 Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?   
-Ik wilde ervoor zorgen dat ik beter met de groep deel waar ik mee bezig ben.
+Ik wilde ervoor zorgen dat ik beter met de groep deel waar ik mee bezig ben. Dit is gedeeltelijk gelukt want deze week wist de groep dat ik met AR bezig was, dat kwam namelijk woensdag /donderdag naar voren bij nadenken over technieken voor de concepten.
 
 ### Afgelopen week
 1.  Wat ging er afgelopen week goed?
@@ -18,7 +18,7 @@ Ik wilde ervoor zorgen dat ik beter met de groep deel waar ik mee bezig ben.
     Het Groeperen van de vergaade gegevens in veschillende categorieën.
 
 2. Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
-    1. 
+    1. Vrijdag de dag na de presentatie van de concepten, we zaten er allemaal beetje doorheen doordat de doelgroep nog steeds niet goed was.
  
 3. Wat ga je komende weken proberen te verbeteren?
     1.  
