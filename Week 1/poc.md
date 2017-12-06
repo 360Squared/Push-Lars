@@ -10,16 +10,16 @@ React Native en geo-fencing
 Is het handig om React Native te gebruiken in combinatie met geo-fencing.
 
 * **testopzet:**  
-1. Starter project van react native werkend krijgen
-2. Geo-fencing library zoeken voor React Native
-3. Library implementeren
-4. Testen van de poc
+1. Starter project van React Native werkend krijgen
+2. Geo-fencing plugin zoeken voor React Native
+3. Plugin toepassen
+4. Testen van het Proof of Concept
  
 * **resultaat:**  
-Aantal plugins gevonden voor [geo-fencing](https://www.npmjs.com/package/react-native-geo-fence). De meeste waren voor een oudere versie van react native. Wanneer ik probeerde om de React Native project te downgraden naar een oudere versie lukte dat niet.
+Aantal plugins gevonden voor [geo-fencing](https://www.npmjs.com/package/react-native-geo-fence). De meeste waren voor een oudere versie van react native. Wanneer ik probeerde om de React Native project te downgraden naar een oudere versie lukte dat niet. 
 
-Toen ik uiteindelijk een [plugin](https://www.npmjs.com/package/react-native-expo-geofence) gevonden had bleek dat niet echt geo-fencing te zien maar een functie om te kijken of een punten binnen een bepaalde afstand van een ander punt ligt.
+Toen ik uiteindelijk een [plugin](https://www.npmjs.com/package/react-native-expo-geofence) gevonden had, bleek dat geen geo-fencing te zijn. Het was te kijken of een punt binnen een bepaalde gebied viel. Deze plugin maakte niet eens gebruikt van de GPS.
 
-Uiteindelijk vond ik een [plugin](https://github.com/transistorsoft/react-native-background-geolocation#large_blue_diamond-setup-guides) die eigenlijk veel meer dan geo-fencing doet. 
+Uiteindelijk vond ik een [plugin](https://github.com/transistorsoft/react-native-background-geolocation#large_blue_diamond-setup-guides) die eigenlijk veel meer dan alleen geo-fencing doet.
 
-Doordat het plugin aanbod niet zo groot is, en de plugins die werken te veel aanbieden wat niet nodig is, is het handiger om je eigen plugin te maken.
+Daarnaast is het plugin aanbod voor geofencing niet heel groot, is en de meeste daarvan voor een oudere versie geschreven / er een aantal plugins veel meer dan alleen geofencing aanbieden kan het handiger zijn om je eigen geo-fencing plugin te schrijven.

@@ -15,8 +15,7 @@ Is het handig om vacatures aan te bieden met behulp van Augmented Reality en vir
  3. Testen of het werkt.
 
 * **resultaat:**  
-Vacatures op een bepaalde locatie kunnen met behulp van AR getoond worden. Echter biedt ARKit zelf niet de functionaliteiten om een Node op een locatie plaatsen. Een Node plaats je namelijk op (x, y, z) meters van de camera. Toevallig kwam ik een [library](https://github.com/ProjectDent/ARKit-CoreLocation) tegen die dat probleem oploste. Hiermee konden wel Nodes op een bepaalde locatie geplaatst worden, echter wanneer je langs een Node liep ging deze een eindje mee, waardoor deze voor jou niet meer opdezelfde plek staat, zolang de app niet wordt afgesloten.
-
+Vacatures op een bepaalde locatie kunnen met behulp van AR getoond worden. Echter biedt ARKit zelf niet de functionaliteiten om een node, een object in de augmented aeality wereld, op een geolocatie plaatsen. Een node plaats je namelijk op een coordinaat, (x, y, z), waarbij er is aangegeven hoever die van de camera staat. Toevallig kwam ik een [library](https://github.com/ProjectDent/ARKit-CoreLocation) tegen die dat probleem oploste. Door deze library konden nodes wel op een bepaalde geolocatie geplaatst worden.  
 
 Multipeer Connectivity
 ----------------
@@ -24,9 +23,9 @@ Multipeer Connectivity
 
 
 * **testopzet:**  
-1. Lezen wat MultipeerConnectivity precies inhoudt.
+1. Lezen wat MultipeerConnectivity precies inhoudt en doet.
 2. Implementeren ervan.
-3. Testne of het werkt.
+3. Testen of het werkt.
 
 * **resultaat:**  
-Na veel moeite het werkend gekregen. De documentatie van Apple was niet echt duidelijk. Toen een [tutorial](https://www.appcoda.com/intro-multipeer-connectivity-framework-ios-programming/) gevonden in Objective C, dat omgezet naar Swift maar die werkte ook niet. Daarna kwam ik via een [stackoverflow](https://stackoverflow.com/questions/36193454/multipeer-connectivity-is-not-working-ios-9-3-xcode-7-3) post op een andere [tutorial](https://www.appcoda.com/chat-app-swift-tutorial/) in ene oudere swift versie, die ook omgezet en dat werkte wel.
+Na veel moeite het werkend gekregen. De documentatie van Apple was niet echt duidelijk. Toen een [tutorial](https://www.appcoda.com/intro-multipeer-connectivity-framework-ios-programming/) gevonden in Objective C, dat omgezet naar Swift maar die werkte ook niet. Hij wilde op de een of andere manier niet verbinden. Terwijl de GUI wel aangaf dat de devices verbonden waren. Op een gegeven moment kwan ik via een [stackoverflow](https://stackoverflow.com/questions/36193454/multipeer-connectivity-is-not-working-ios-9-3-xcode-7-3) post op een andere [tutorial](https://www.appcoda.com/chat-app-swift-tutorial/) terecht. Hierdoor werkte het wel.
