@@ -10,7 +10,7 @@ import UIKit
 import CoreImage
 
 class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
-
+    
     var ciImage: CIImage!
     @IBOutlet weak var beforeProcessingImage: UIImageView!
     @IBOutlet weak var afterProcessingImage: UIImageView!
@@ -21,12 +21,12 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         afterProcessingImage.sizeToFit()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    
     @IBAction func openPhotoLibrary(_ sender: UIButton) {
         if UIImagePickerController.isSourceTypeAvailable(.photoLibrary) {
             let imagePicker = UIImagePickerController()
@@ -38,9 +38,9 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     }
     
     func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [String : Any]) {
-//        let image = info[UIImagePickerControllerOriginalImage] as! UIImage
-//        beforeProcessingImage.image = image
-//        dismiss(animated:true, completion: nil)
+        //        let image = info[UIImagePickerControllerOriginalImage] as! UIImage
+        //        beforeProcessingImage.image = image
+        //        dismiss(animated:true, completion: nil)
         if let pickedImage = info[UIImagePickerControllerOriginalImage] as? UIImage {
             beforeProcessingImage.image = pickedImage
         }
@@ -55,16 +55,10 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         filter?.setValue(5.5, forKey: kCIInputIntensityKey)
         
         let sepiaImage = filter?.outputImage?.applyingFilter("CIBoxBlur", parameters: [kCIInputRadiusKey : 100.0])
-        
-        //if let output = filter?.outputImage {
         if let cgimg = context.createCGImage(sepiaImage!, from: (sepiaImage?.extent)!) {
-                let processedImage = UIImage(cgImage: cgimg, scale: (beforeProcessingImage.image?.scale)!, orientation: (beforeProcessingImage.image?.imageOrientation)!)
-                afterProcessingImage.image = processedImage
-            }
-        //}
-        
-        
-        
+            let processedImage = UIImage(cgImage: cgimg, scale: (beforeProcessingImage.image?.scale)!, orientation: (beforeProcessingImage.image?.imageOrientation)!)
+            afterProcessingImage.image = processedImage
+        }
     }
 }
 
