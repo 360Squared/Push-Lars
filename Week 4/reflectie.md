@@ -12,11 +12,10 @@ Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?
 
 ### Afgelopen week
 1.  Wat ging er afgelopen week goed?
-De informatie van de probers omzetten in bruikbare concepten. Deze concepten hebben we dan gebruikt om 15 minuten ontwerpen te schetsen. Daarnaast hebben we met elkaar requirements en use cases opgesteld voor het functioneel ontwerp.
+Deze week zijn we als eerste begonnen met het maken van nieuwe concepten aan de hand van de informatie die uit de probeer gehaald waren. Hierna hebben we met zijn allen zinvolle requirements opgesteld. Met deze requirements gingen we use cases maken. Hierbij heb ik ook opgelet of de use cases wel goed waren. Daarna hebben we met zijn allen een schetssessie gehouden van 15 minuten om alle use cases uit te werken.
 
 2. Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
-
-
+Wat ik deze week niet goed vond gaan was het uitwerken van de Proof of Concepts. De eerste twee dagen van de week waren we namelijk bezig met het uitwerken van de concepten. Woensdag en donderdag had ik wat tijd om aan het Proof of Concept alleen niet genoeg om aan iets moeilijks te werken daarom had ik wat simpele en nieuwe technologieën gepakt. Zodat ik ook nog met de groep kon samenwerken.
 
 3. Wat ga je komende weken proberen te verbeteren?
-Wanneer het tegen zit wil ik gaan proberen meer mijn zegje te doen. Ik heb namelijk gemerkt dat ik een afwachtendere houding dan ga aannemen en ga wachten totdat iemand anders begint om ons te motiveren.
+Wat ik afgelopen week gemerkt heb is wanneer er een dodelijke stilte valt omdat we een tegenslag hadden. Ik me meer terug trek en een afwachtende houding aanneem en ga wachten totdat iemand het voortouw neem. De komende weken wil ik hier aan gaan werken om dit te verbeteren.

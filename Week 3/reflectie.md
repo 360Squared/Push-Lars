@@ -9,13 +9,12 @@ Beschrijf concrete aspecten van de samenwerking, geef aan in hoeverre je daar te
 
 ### Vorige week
 Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?   
-Ik wilde ervoor zorgen dat ik beter met de groep deel waar ik mee bezig ben. Dit is gedeeltelijk gelukt want deze week wist de groep dat ik met AR bezig was, dat kwam namelijk woensdag /donderdag naar voren bij nadenken over technieken voor de concepten.
+Ik wilde vorige week gaan verbeteren dat ik beter ging delen waar ik mee bezig ben geweest. Dit is gedeeltelijk gelukt want deze week wist de groep dat ik met AR bezig was. Want woensdag kwam dit namelijk naar voren dat er werd aangegeven dat we misschien wel AR konden gebruiken voor de vacatures, maar in een gesprek met de opdrachtgever hoorden we dat niet handig is wanneer laagopgeleiden naar vacatures zoeken en er komt ineens een vacature op je af. 
+
 
 ### Afgelopen week
-1.  Wat ging er afgelopen week goed?
-    De interviews bij de uitzendbureau's gingen goed. Het interview dat ik afnam bij Synensis vond ik goed gaan. Ik kon namelijk vragen bedenken om mee te kunnen doorvragen op een eerder gestelde vraag. Dat komt waarschijnlijk omdat ik concrete antwoorden terug kreeg, en een stuk van dat antwoord kon ik dan weer gebruiken voor het bedenken van een vraag. Verder ging het verwerken van de vergaarde gegevens ook goed. De belangrijkste punten uit elk interview waren op stick notes geschreven. Daarna werd een bepaald begrip opgeschreven waarna iedereen naar sticky notes ging zoeken die bij dat begrip hoorden.
+1.  Wat ging er afgelopen week goed? 
+Afgelopen week heb iemand van het uitzendbureau gehouden. Ik vond dat interview aardig goed gaan. Ik kon namelijk vragen bedenken zodat ik door kon vragen op het antwoord wat gegeven was. Dat komt waarschijnlijk omdat ik concrete antwoorden terug kreeg, en een stuk van dat antwoord kon ik dan weer gebruiken voor het bedenken van een vraag. Verder ging het verwerken van de vergaarde gegevens ook goed. De belangrijkste punten uit elk interview waren op stick notes geschreven. Daarna werd een bepaald begrip opgeschreven waarna iedereen naar sticky notes ging zoeken die bij dat begrip hoorden.
 
 2. Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
-    1. Vrijdag de dag na de presentatie van de concepten, we zaten er allemaal doorheen doordat we de doelgroep niet goed hadden. De docenten vonden namelijk dat het concept niet goed aansloot bij de doel groep die we hadden, scholieren en studenten van 16-25 jaar. Hierdoor klopten de concepten ook nog niet, hierdoor waren we weer terug bij af.
- 
-3. Wat ga je komende weken proberen te verbeteren?
+De dag na de concept presentatie had niemand eigenlijk zin om wat te doen. We zaten er allemaal doorheen. Dat komt omdat we de dag ervoor te horen hadden gekregen dat we de doelgroep niet goed hadden en dat we daarom nog een keer de doel groep moesten onderzoeken. De docenten vonden namelijk dat ons concept niet goed aansloot bij de gekozen doelgroep. Voor de doelgroep van scholieren was het concept goed. Maar voor de studenten was het concept veel te makkelijk. Daarom besloten we om probes te maken. Toen we dat idee hadden, ging iedereen er weer met frisse moed tegenaan.
