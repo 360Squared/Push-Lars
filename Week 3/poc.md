@@ -4,66 +4,28 @@ Beschrijving van de PoC's
 Geef een beschrijving van de test die je gedaan hebt met elk Proof of Concept. Voeg 
  de code ook toe in de map **code**.
  
-Core Image
+ARKit
 ----------------
+* **hypothese:**  
+Is het handig om vacatures aan te bieden met behulp van Augmented Reality en virtuele tegels.
+
 * **testopzet:**  
- 1. Inlezen in Core Image
- 2. POC maken
- 3. POC testen
+ 1. Inlezen wat ARKit precies is, en kijken naar de basis functionaliteiten.
+ 2. Implementeren van basic AR.
+ 3. Testen of het werkt.
 
 * **resultaat:**  
-De volgende code is hiervoor gebruikt.
-```swift
-    @IBAction func processImage(_ sender: UIButton) {
-        ciImage = CIImage(image: beforeProcessingImage.image!)
-        let filter = CIFilter(name: "CISepiaTone")
-        let context = CIContext(options: nil)
-        filter?.setValue(ciImage, forKey: kCIInputImageKey)
-        filter?.setValue(5.5, forKey: kCIInputIntensityKey)
-        
-        let sepiaImage = filter?.outputImage?.applyingFilter("CIBoxBlur", parameters: [kCIInputRadiusKey : 100.0])
-        if let cgimg = context.createCGImage(sepiaImage!, from: (sepiaImage?.extent)!) {
-            let processedImage = UIImage(cgImage: cgimg, scale: (beforeProcessingImage.image?.scale)!, orientation: (beforeProcessingImage.image?.imageOrientation)!)
-            afterProcessingImage.image = processedImage
-        }
-    }
-```
-Dat geeft onderstaand resultaat.
-![alt Filters](./IMG_1450.PNG "Filters")
+Vacatures op een bepaalde locatie kunnen met behulp van AR getoond worden. Echter biedt ARKit zelf niet de functionaliteiten om een node, een object in de augmented aeality wereld, op een geolocatie plaatsen. Een node plaats je namelijk op een coordinaat, (x, y, z), waarbij er is aangegeven hoever die van de camera staat. Toevallig kwam ik een [library](https://github.com/ProjectDent/ARKit-CoreLocation) tegen die dat probleem oploste. Door deze library konden nodes wel op een bepaalde geolocatie geplaatst worden.  
 
-Core MachineLearning
+Multipeer Connectivity
 ----------------
+* **hypothese:**  
+
+
 * **testopzet:**  
-1. 
+1. Lezen wat MultipeerConnectivity precies inhoudt en doet.
+2. Implementeren ervan.
+3. Testen of het werkt.
 
-* **resultaat:**
-De volgende code is gebruikt:
-```swift
-                let orientation = CGImagePropertyOrientation(rawValue: UInt32(pickedImage.imageOrientation.rawValue))
-                let handler = VNImageRequestHandler(ciImage: CIImage(image: pickedImage)!, orientation: orientation!)
-                do {
-                    try handler.perform([self.request])
-                } catch {
-                    /*
-                     This handler catches general image processing errors. The `classificationRequest`'s
-                     completion handler `processClassifications(_:error:)` catches errors specific
-                     to processing that request.
-                     */
-                    print("Failed to perform classification.\n\(error.localizedDescription)")
-                }
-```
-
-
-```swift
-        let classifications = request.results as! [VNClassificationObservation]
-        let topClassifications = classifications.prefix(2)
-        let descriptions = topClassifications.map { classification in
-            // Formats the classification for display; e.g. "(0.37) cliff, drop, drop-off".
-            DispatchQueue.main.async { [weak self] in
-                self?.textLabel.text?.append(String(format: "  (%.2f) %@\n", classification.confidence, classification.identifier))
-            }
-            print(String(format: "  (%.2f) %@", classification.confidence, classification.identifier))
-        }
-```
-Dat gaf onderstaande resultaat
-![alt Machine Learning](./CML.png "Machine Learning")
+* **resultaat:**  
+Na veel moeite het werkend gekregen. De documentatie van Apple was niet echt duidelijk. Toen een [tutorial](https://www.appcoda.com/intro-multipeer-connectivity-framework-ios-programming/) gevonden in Objective C, dat omgezet naar Swift maar die werkte ook niet. Hij wilde op de een of andere manier niet verbinden. Terwijl de GUI wel aangaf dat de devices verbonden waren. Op een gegeven moment kwan ik via een [stackoverflow](https://stackoverflow.com/questions/36193454/multipeer-connectivity-is-not-working-ios-9-3-xcode-7-3) post op een andere [tutorial](https://www.appcoda.com/chat-app-swift-tutorial/) terecht. Hierdoor werkte het wel.

@@ -1,31 +1,25 @@
-Beschrijving van de PoC's
+Beschrijving van de PoC
 ==========================
 
 Geef een beschrijving van de test die je gedaan hebt met elk Proof of Concept. Voeg 
  de code ook toe in de map **code**.
  
-ARKit
+React Native en geo-fencing
 ----------------
 * **hypothese:**  
-Is het handig om vacatures aan te bieden met behulp van Augmented Reality en virtuele tegels.
+Is het handig om React Native te gebruiken in combinatie met geo-fencing.
 
 * **testopzet:**  
- 1. Inlezen wat ARKit precies is, en kijken naar de basis functionaliteiten.
- 2. Implementeren van basic AR.
- 3. Testen of het werkt.
-
+1. Starter project van React Native werkend krijgen
+2. Geo-fencing plugin zoeken voor React Native
+3. Plugin toepassen
+4. Testen van het Proof of Concept
+ 
 * **resultaat:**  
-Vacatures op een bepaalde locatie kunnen met behulp van AR getoond worden. Echter biedt ARKit zelf niet de functionaliteiten om een node, een object in de augmented aeality wereld, op een geolocatie plaatsen. Een node plaats je namelijk op een coordinaat, (x, y, z), waarbij er is aangegeven hoever die van de camera staat. Toevallig kwam ik een [library](https://github.com/ProjectDent/ARKit-CoreLocation) tegen die dat probleem oploste. Door deze library konden nodes wel op een bepaalde geolocatie geplaatst worden.  
+Aantal plugins gevonden voor [geo-fencing](https://www.npmjs.com/package/react-native-geo-fence). De meeste waren voor een oudere versie van react native. Wanneer ik probeerde om de React Native project te downgraden naar een oudere versie lukte dat niet. 
 
-Multipeer Connectivity
-----------------
-* **hypothese:**  
+Toen ik uiteindelijk een [plugin](https://www.npmjs.com/package/react-native-expo-geofence) gevonden had, bleek dat geen geo-fencing te zijn. Het was te kijken of een punt binnen een bepaalde gebied viel. Deze plugin maakte niet eens gebruikt van de GPS.
 
+Uiteindelijk vond ik een [plugin](https://github.com/transistorsoft/react-native-background-geolocation#large_blue_diamond-setup-guides) die eigenlijk veel meer dan alleen geo-fencing doet.
 
-* **testopzet:**  
-1. Lezen wat MultipeerConnectivity precies inhoudt en doet.
-2. Implementeren ervan.
-3. Testen of het werkt.
-
-* **resultaat:**  
-Na veel moeite het werkend gekregen. De documentatie van Apple was niet echt duidelijk. Toen een [tutorial](https://www.appcoda.com/intro-multipeer-connectivity-framework-ios-programming/) gevonden in Objective C, dat omgezet naar Swift maar die werkte ook niet. Hij wilde op de een of andere manier niet verbinden. Terwijl de GUI wel aangaf dat de devices verbonden waren. Op een gegeven moment kwan ik via een [stackoverflow](https://stackoverflow.com/questions/36193454/multipeer-connectivity-is-not-working-ios-9-3-xcode-7-3) post op een andere [tutorial](https://www.appcoda.com/chat-app-swift-tutorial/) terecht. Hierdoor werkte het wel.
+Daarnaast is het plugin aanbod voor geofencing niet heel groot, is en de meeste daarvan voor een oudere versie geschreven / er een aantal plugins veel meer dan alleen geofencing aanbieden kan het handiger zijn om je eigen geo-fencing plugin te schrijven.
