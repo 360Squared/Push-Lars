@@ -10,9 +10,10 @@ Beschrijf concrete aspecten van de samenwerking, geef aan in hoeverre je daar te
 ### Vorige week
 Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?
 
+
 ### Afgelopen week
 1.  Wat ging er afgelopen week goed?
-
+Het samen werken in groepjes om de prototpyes te bouwen om de hypothese te testen. Hierbij zijn er groepjes gemaakt van ontwerpers en ontwikkelaars om samen een ontwerp te maken van de hypothese die we deze week gingen uitwerken. Het afnemen van de prototype test. Bij sommige winkels was ik iets te enthousiast waarbij ik al door wilde gaan naar het volgende prototype terwijl er nog wat vragen over het vorige prototype gesteld moesten worden.
 
 2. Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
 
