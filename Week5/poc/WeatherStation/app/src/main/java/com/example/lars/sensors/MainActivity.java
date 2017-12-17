@@ -56,12 +56,6 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
     @Override
     public final void onSensorChanged(SensorEvent event) {
-        System.out.print("ID: " + event.sensor.getId() + " Name: " + event.sensor.getName() + " ");
-        for (float s : event.values) {
-            System.out.print(s + "\t");
-        }
-        System.out.println();
-
         if (event.sensor.getName() == sensorPressure.getName()) {
             barometerValue.setText(Float.toString(event.values[0]) + " hPa");
         } else if (event.sensor.getName() == sensorHumidity.getName()) {
