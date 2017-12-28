@@ -36,9 +36,9 @@ Open the installed client.
 ncmpcpp
 ```
 
-![alt Filters](./client_open.png "Radio Gui")
-Press "Shift + a" to add a new playlist.
-![alt Filters](./client_open_add.png "Radio Gui")
+![alt Filters](./client_open.png "Radio Gui")  
+Press "Shift + a" to add a new playlist.  
+![alt Filters](./client_open_add.png "Radio Gui")  
 I added a link to a radio stream (http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac) After that press "Enter" and than "q" to quit the application.
 
 ### Running the python radio
@@ -49,5 +49,5 @@ Make sure you are inside the "Radio" directory than use the following command:
 python3.6 main.py
 ```
 
-You should see:
+You should see:  
 ![alt Filters](./radio.png "Radio Gui")
