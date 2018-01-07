@@ -12,4 +12,7 @@ QR code uitlezen en link weergeven op een web pagina.
 2. De URL openen in een webview. Dit bleek niet meteen te werken omdat mijn browser geopend werd ipv dat de pagina in de app zelf werd weergegeven. Ik kwam deze post op [stackoverflow](https://stackoverflow.com/a/34924153) tegen. Hierdoor werd de web pagina in de app wel geopend.
 
 * **resultaat:**
+![alt Scanner](./scanner.png "Scanner")
 De webpagina wordt geopend wanneer de QR code een URL heeft.
+Dat geeft onderstaand resultaat.
+![alt Webview](./webview.png "webview")

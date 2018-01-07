@@ -12,7 +12,7 @@ Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?
 
 ### Afgelopen week
 1.  Wat ging er afgelopen week goed?
-Het samen werken in groepjes om de prototpyes te bouwen om de hypothese te testen. Hierbij zijn er groepjes gemaakt van ontwerpers en ontwikkelaars om samen een ontwerp te maken van de hypothese die we deze week gingen uitwerken. Het afnemen van de prototype test. Bij sommige winkels was ik iets te enthousiast waarbij ik al door wilde gaan naar het volgende prototype terwijl er nog wat vragen over het vorige prototype gesteld moesten worden.
+Het samen werken in groepjes om de prototpyes te bouwen om de hypothese te testen. Hierbij zijn er groepjes gemaakt van ontwerpers en ontwikkelaars om samen een ontwerp te maken van de hypothese die we deze week gingen uitwerken. Verder gingen we in twee tallen de stad in om de gemaakte prototypes te testen bij de managers. Bij sommige winkels was ik iets te enthousiast waarbij ik al door wilde gaan met uitleg van het volgende prototype terwijl er nog vragen gesteld moesten worden wat diegene vond van het eerste prototype.
 
 2. Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
 

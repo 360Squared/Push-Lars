@@ -2,9 +2,7 @@ Reflectie
 ==========
 
 Dit stuk is bedoeld als terugblik op de effectiviteit van de samenwerking.
-Beschrijf concrete aspecten van de samenwerking, geef aan in hoeverre je daar tevreden mee en wat de rol is
- van je eigen gedrag binnen dit aspect. Geef vervolgens aan hoe je met je eigen gedrag de effectiviteit van 
- de samenwerking kan verbeteren.
+Beschrijf concrete aspecten van de samenwerking, geef aan in hoeverre je daar tevreden mee en wat de rol is van je eigen gedrag binnen dit aspect. Geef vervolgens aan hoe je met je eigen gedrag de effectiviteit van de samenwerking kan verbeteren.
 
 ### Afgelopen week
 1.  Wat ging er afgelopen week goed?
