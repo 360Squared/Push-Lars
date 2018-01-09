@@ -19,9 +19,6 @@ Vacatures op een bepaalde locatie kunnen met behulp van AR getoond worden. Echte
 
 Multipeer Connectivity
 ----------------
-* **hypothese:**  
-
-
 * **testopzet:**  
 1. Lezen wat MultipeerConnectivity precies inhoudt en doet.
 2. Implementeren ervan.

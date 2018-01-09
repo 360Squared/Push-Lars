@@ -34,9 +34,11 @@ Dat geeft onderstaand resultaat.
 Core MachineLearning
 ----------------
 * **testopzet:**  
-1. 
+1. Inlezen in CoreML
+ 2. POC maken
+ 3. POC testen
 
-* **resultaat:**
+* **resultaat:**  
 De volgende code is gebruikt:
 ```swift
                 let orientation = CGImagePropertyOrientation(rawValue: UInt32(pickedImage.imageOrientation.rawValue))
