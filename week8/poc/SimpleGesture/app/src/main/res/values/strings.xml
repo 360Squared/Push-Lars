@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleGesture</string>
+    <string name="gesture_available">Perform an Air Gesture!</string>
+    <string name="gesture_not_available">Gesture Unsupported!</string>
+    <string name="action_settings">Settings</string>
+	<string name="movement_up">UP</string>
+	<string name="movement_down">DOWN</string>
+	<string name="movement_left">LEFT</string>
+	<string name="movement_right">RIGHT</string>
+	<string name="degree">0º</string>
+</resources>

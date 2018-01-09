@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Lars/Documents/Push-Lars/week8/poc/SimpleGesture/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/Lars/Documents/Push-Lars/week8/poc/SimpleGesture/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "13,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "638,929",
+                        "endLines": "19,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "924,1084"
+                    }
+                },
+                {
+                    "source": "/Users/Lars/Documents/Push-Lars/week8/poc/SimpleGesture/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/Users/Lars/Documents/Push-Lars/week8/poc/SimpleGesture/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "6,3,11,4,5,8,9,10,7",
+                        "startColumns": "4,4,1,4,4,1,1,1,1",
+                        "startOffsets": "252,58,477,110,180,343,387,431,303",
+                        "endColumns": "52,50,34,69,70,43,43,45,39",
+                        "endOffsets": "300,104,510,175,246,385,429,475,341"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,273,311,381,452,499,546,595",
+                        "endColumns": "52,50,37,69,70,46,46,48,42",
+                        "endOffsets": "217,268,306,376,447,494,541,590,633"
+                    }
+                }
+            ]
+        }
+    ]
+}
