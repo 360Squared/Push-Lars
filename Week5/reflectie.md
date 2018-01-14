@@ -4,14 +4,15 @@ Reflectie
 Dit stuk is bedoeld als terugblik op de effectiviteit van de samenwerking.
 Beschrijf concrete aspecten van de samenwerking, geef aan in hoeverre je daar tevreden mee en wat de rol is van je eigen gedrag binnen dit aspect. Geef vervolgens aan hoe je met je eigen gedrag de effectiviteit van de samenwerking kan verbeteren.
  
-
 ### Vorige week
 Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?
+Ik heb vorige week aangegeven dat ik wil voorkomen dat er een dodelijk stilte valt, doordat we in groepjes aan een prototype gingen werken was er deze week geen sprake van een dodelijke stilte.
 
 ### Afgelopen week
 1.  Wat ging er afgelopen week goed?  
-Het samenwerken in groepjes om de prototypes te maken om de hypothese te kunnen testen. Hierbij werden er groepjes gemaakt van ontwerpers en ontwikkelaars om samen een klikbare prototype op te leveren. Daarnaast gingen we in tweetallen de stad in om het prototype voor de werkgever te testen. Bij sommige winkels was ik iets te enthousiast tijdens het uitleggen van het prototype waardoor ik al wilde doorgaan naar het volgende prototype terwijl er nog vragen gesteld moesten worden wat de manager vond van het eerste prototype.
+Het samenwerken in groepjes om de prototypes te maken om de hypothese te kunnen testen. Hierbij werden er groepjes gemaakt van ontwerpers en ontwikkelaars om samen een klikbaar prototype op te leveren. Daarna gingen we in tweetallen de stad in om het prototype met behulp van werkgevers te testen. Bij sommige winkels was ik iets te enthousiast tijdens het uitleggen van het prototype waardoor ik al wilde doorgaan naar het volgende prototype terwijl er nog vragen gesteld moesten worden wat de manager vond van het eerste prototype.
 
 2. Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?  
+Waar ik me vorige week aan geërgerd heb, is groepsgenoten die elkaar aan het afleiden zijn waardoor de rest van de groep ook afgeleid wordt. Tijdens het maken van het prototype zijn we allemaal ergens anders gaan zitten, het resultaat van het ergens anders zitten was dat de groep minder snel afgeleid werd. Hierdoor hebben we besloten dat we deze opstelling houden zolang er niet in subgroepjes gewerkt moet worden. Daarnaast ging de manier van hoe we het prototype wilden testen ook niet helemaal goed. We waren eerst van plan om een klikbaar prototype te maken voor de iPad. Doordat we een gesprek hadden met de docenten hebben we toch besloten om het prototype te maken met behulp van ProtoPie. Hierbij was het gemaakte prototype voor de iPad niet helemaal nutteloos. Doordat de navigatie nogal lastig uit te tekenen was op papier, hebben we tijdens het bouwen van het prototype in ProtoPie de iPad eraf en toe bij gepakt om te controleren of de navigatie over een kwam.
 
 3. Wat ga je komende weken proberen te verbeteren?  
