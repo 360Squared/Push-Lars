@@ -6,7 +6,7 @@ Beschrijf concrete aspecten van de samenwerking, geef aan in hoeverre je daar te
 
 ### Vorige week
 Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?  
-Afgelopen week had ik niet iets wat ik wilde verbeteren. Dat kwam omdat alles afgelopen week zijn gangetje ging.
+Deze week had het subgroepje waar ik in zat 
 
 ### Afgelopen week
 1. Wat ging er afgelopen week goed?  
