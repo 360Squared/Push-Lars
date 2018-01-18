@@ -6,7 +6,7 @@ Beschrijf concrete aspecten van de samenwerking, geef aan in hoeverre je daar te
  
 ### Vorige week
 Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?  
-Vorige week had ik niet iets wat ik wilde gaan verbeteren.
+Vorige week heb ik aangegeven dat ik mensen wilde aansporen om weer aan de gang te gaan wanneer het even tegenzit. Dit is mij helaas nog niet gelukt. Aangezien ik deze week precies hetzelfde deed als vorige week.
 
 ### Afgelopen week
 1.  Wat ging er afgelopen week goed?  
@@ -16,4 +16,4 @@ Deze week stond vooral in het teken van het verwerken van de informatie die uit 
 Wat ik deze week niet goed vond gaan was het uitwerken van de Proof of Concepts. De eerste twee dagen van de week waren we namelijk bezig met het uitwerken van de concepten. Woensdag en donderdag had ik wat tijd om aan het Proof of Concept alleen niet genoeg om aan iets moeilijks te werken daarom had ik wat simpele, maar toch nieuwe, technologieën gepakt. Zodat ik ook nog met de groep kon samenwerken.
 
 3. Wat ga je komende weken proberen te verbeteren?  
-Wat ik afgelopen week gemerkt heb is wanneer er een dodelijke stilte valt omdat we een tegenslag hadden. Ik me meer terug trek en een afwachtende houding aanneem en ga wachten totdat iemand het voortouw neem. De komende weken wil ik hier aan gaan werken om dit te verbeteren.
+Zoals ik al had aangeven heb ik mijn verbeter punt deze week niet kunnen verbeteren. Daarom ben ik van plan om dit verbetern punt mee te nemen voor het resterende project en te kijken of ik er nog iets mee kan doen. Aangezien het wel handig is als je mensen kan aansporen om weer aan het werk te gaan wanneer het even tegenzit.
