@@ -1,4 +1,4 @@
-# Technology push Thom De Winter
+# Technology push Lars De Winter
 
 In [deze repo](https://github.com/360Squared/Push-Lars) worden de technology pushes van mij geplubliceerd.
 
