@@ -1,8 +1,7 @@
 Beschrijving van de PoC's
 ==========================
 
-Geef een beschrijving van de test die je gedaan hebt met elk Proof of Concept. Voeg 
- de code ook toe in de map **code**.
+Geef een beschrijving van de test die je gedaan hebt met elk Proof of Concept. Voeg de code ook toe in de map **code**.
  
 Core Image
 ----------------
@@ -39,7 +38,7 @@ Core MachineLearning
  3. POC testen
 
 * **resultaat:**  
-De volgende code is gebruikt:
+De volgende code is hiervoor gebruikt:
 ```swift
                 let orientation = CGImagePropertyOrientation(rawValue: UInt32(pickedImage.imageOrientation.rawValue))
                 let handler = VNImageRequestHandler(ciImage: CIImage(image: pickedImage)!, orientation: orientation!)
@@ -67,5 +66,5 @@ De volgende code is gebruikt:
             print(String(format: "  (%.2f) %@", classification.confidence, classification.identifier))
         }
 ```
-Dat gaf onderstaande resultaat
+Bovenstaande code geeft onderstaand resultaat.  
 ![alt Machine Learning](./CML.png "Machine Learning")
