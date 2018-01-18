@@ -27,7 +27,7 @@ De volgende code is hiervoor gebruikt.
         }
     }
 ```
-Dat geeft onderstaand resultaat.
+Dat geeft onderstaand resultaat.  
 ![alt Filters](./IMG_1450.PNG "Filters")
 
 Core MachineLearning
@@ -53,8 +53,6 @@ De volgende code is hiervoor gebruikt:
                     print("Failed to perform classification.\n\(error.localizedDescription)")
                 }
 ```
-
-
 ```swift
         let classifications = request.results as! [VNClassificationObservation]
         let topClassifications = classifications.prefix(2)
