@@ -27,5 +27,5 @@ De volgende code is hiervoor gebruikt:
         }
     }
 ```
-Dat geeft onderstaand resultaat.
-![alt Weerstation](./weatherstation.PNG "Weerstation")
+Dat geeft onderstaand resultaat.  
+![alt Weerstation](./weatherstation.png "Weerstation")
